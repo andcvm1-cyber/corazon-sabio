@@ -1,0 +1,10 @@
+<svg width="900" height="650" viewBox="0 0 900 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="650" fill="#F8EAF0"/>
+  <circle cx="450" cy="275" r="165" fill="#B33F62"/>
+  <circle cx="365" cy="245" r="42" fill="#D96B8B"/>
+  <circle cx="520" cy="230" r="38" fill="#D96B8B"/>
+  <circle cx="455" cy="175" r="30" fill="#F6C7A1"/>
+  <path d="M315 390H585L535 560H365L315 390Z" fill="#5A3528"/>
+  <path d="M345 420H555L520 530H380L345 420Z" fill="#FFF8EC"/>
+  <text x="450" y="602" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#5A3528">Frutos Rojos</text>
+</svg>
