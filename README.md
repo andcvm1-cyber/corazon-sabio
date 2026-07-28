@@ -32,7 +32,6 @@ public/images/brand
 
 Puedes reemplazar las imagenes temporales de productos en `public/images` cuando tengas fotos reales de los helados.
 
-
 # Corazón Sabio 🍨
 
 Aplicación web para **Corazón Sabio**, un emprendimiento de helados artesanales veganos, sin lácteos y sin azúcar refinada. El sitio presenta la marca, la filosofía, el catálogo de sabores y permite hacer pedidos directamente por WhatsApp.
@@ -113,6 +112,11 @@ Esto llevó a reemplazar los placeholders por los logos y el brandboard reales d
 **4. Prompt de soporte de entorno:**
 > "¿Puedes instalar Node?" — para resolver el bloqueo de `spawn EPERM` al intentar correr el servidor local y poder verificar la app fuera del entorno de generación.
 
+**5. Prompt de conexión a GitHub y despliegue en Vercel**:
+> "Dame los comandos para inicializar este proyecto con Git, subirlo a un repositorio en GitHub y desplegarlo en Vercel."
+
+Esto guio la inicialización del repositorio local, la creación del repo remoto en GitHub y la conexión del proyecto con Vercel para obtener el dominio de despliegue continuo.
+
 ---
 
 ## 4. Autoevaluación
@@ -137,4 +141,6 @@ Esto llevó a reemplazar los placeholders por los logos y el brandboard reales d
 - Blog / entradas de filosofía de marca como sección independiente.
 - Pagos en línea (Stripe / Mercado Pago).
 - Panel de administración para editar sabores sin tocar código.
+- Exportar catálogo de sabores a PDF.
+o.
 - Exportar catálogo de sabores a PDF.
